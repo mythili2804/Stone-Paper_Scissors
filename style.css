@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width:100%;
+    font-size: 16px;
+    background-color: black;
+    color: antiquewhite;
+}
+main{
+    height: 100vh;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 2rem;
+}
